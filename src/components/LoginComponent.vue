@@ -1,4 +1,4 @@
-<!-- src/components/Login.vue -->
+<!-- src/components/LoginComponent.vue -->
 <template>
   <div class="container mt-5">
     <h2>Вход</h2>
